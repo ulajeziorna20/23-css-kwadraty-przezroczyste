@@ -1,0 +1,33 @@
+#square-1 ,
+#square-2 ,
+#square-3 ,
+#square-4 {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 15px;
+    margin-left: 650px;
+}
+
+#square-1 {
+    margin-top: 40px;
+}
+
+body {
+    background-color: #f5f5dd;
+}
+
+#square-1 {
+    background-color: rgba(0, 0, 0, 1.0);
+}
+
+#square-2 {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#square-3 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+#square-4 {
+    background-color: rgba(0, 0, 0, 0.2);
+}
